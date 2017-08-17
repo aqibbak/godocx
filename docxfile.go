@@ -1,5 +1,4 @@
 package godocx
-
 import (
 	"archive/zip"
 	//"fmt"
